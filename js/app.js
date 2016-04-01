@@ -70,7 +70,7 @@ Enemy.prototype.render = function() {
 var Player = function() {
     this.sprite = 'images/char-boy.png';
     this.reset();
-}
+};
 
 //player reset function
 Player.prototype.reset = function() {
