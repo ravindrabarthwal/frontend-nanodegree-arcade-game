@@ -8,4 +8,4 @@
 
 ### Hahah! Hooo! You won
 
-### I will update this game in future for more interesting fun score and levels
+### I will update this game in future for more interesting fun, score and levels
