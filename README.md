@@ -1,6 +1,11 @@
-frontend-nanodegree-arcade-game
-===============================
+# A simple Arcade Game
 
-Students should use this [rubric](https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535) for self-checking their submission.
+## How To Play
+1. Open the index.html on any browser.
+2. Use arrows up, down, right, left to move the player
+3. Prevent your **super hero** from the enemy **bugs**
+4. Reach to the top river without hiting the enemy
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+### Hahah! Hooo! You won
+
+### I will update this game in future for more interesting fun score and levels
